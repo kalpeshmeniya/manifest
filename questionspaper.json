@@ -10,36 +10,43 @@
     "src": "https://lh3.googleusercontent.com/-_xNupnZegKM/XiFRcQK63LI/AAAAAAAAEtE/AtysZAoeFdcgjLRFqonNwJmxJgFUtrWvgCLcBGAsYHQ/s36/questionspaperfavicon.png' rel='apple-touch-icon",
     "sizes": "36x36",
     "type": "image/png",
-    "density": "0.75"
+    "density": "0.75",
+    "purpose":"any maskable"
   }, {
     "src": "https://lh3.googleusercontent.com/-_xNupnZegKM/XiFRcQK63LI/AAAAAAAAEtE/AtysZAoeFdcgjLRFqonNwJmxJgFUtrWvgCLcBGAsYHQ/s48/questionspaperfavicon.png' rel='apple-touch-icon' rel='apple-touch-icon",
     "sizes": "48x48",
     "type": "image/png",
-    "density": "1.0"
+    "density": "1.0",
+    "purpose":"any maskable"
   }, {
     "src": "https://lh3.googleusercontent.com/-_xNupnZegKM/XiFRcQK63LI/AAAAAAAAEtE/AtysZAoeFdcgjLRFqonNwJmxJgFUtrWvgCLcBGAsYHQ/s72/questionspaperfavicon.png' rel='apple-touch-icon",
     "sizes": "72x72",
     "type": "image/png",
-    "density": "1.5"
+    "density": "1.5",
+    "purpose":"any maskable"
   }, {
     "src": "https://lh3.googleusercontent.com/-_xNupnZegKM/XiFRcQK63LI/AAAAAAAAEtE/AtysZAoeFdcgjLRFqonNwJmxJgFUtrWvgCLcBGAsYHQ/s96/questionspaperfavicon.png",
     "sizes": "96x96",
     "type": "image/png",
-    "density": "2.0"
+    "density": "2.0",
+    "purpose":"any maskable"
   }, {
     "src": "https://lh3.googleusercontent.com/-_xNupnZegKM/XiFRcQK63LI/AAAAAAAAEtE/AtysZAoeFdcgjLRFqonNwJmxJgFUtrWvgCLcBGAsYHQ/s144/questionspaperfavicon.png' rel='apple-touch-icon",
     "sizes": "144x144",
     "type": "image/png",
-    "density": "3.0"
+    "density": "3.0",
+    "purpose":"any maskable"
   }, {
     "src": "https://lh3.googleusercontent.com/-_xNupnZegKM/XiFRcQK63LI/AAAAAAAAEtE/AtysZAoeFdcgjLRFqonNwJmxJgFUtrWvgCLcBGAsYHQ/s192/questionspaperfavicon.png' rel='apple-touch-icon",
     "sizes": "192x192",
     "type": "image/png",
-    "density": "4.0"
+    "density": "4.0",
+    "purpose":"any maskable"
   }, {
     "src": "https://lh3.googleusercontent.com/-_xNupnZegKM/XiFRcQK63LI/AAAAAAAAEtE/AtysZAoeFdcgjLRFqonNwJmxJgFUtrWvgCLcBGAsYHQ/s512/questionspaperfavicon.png' rel='apple-touch-icon",
     "sizes": "512x512",
     "type": "image/png",
-    "density": "5.0"
+    "density": "5.0",
+    "purpose":"any maskable"
   }]
 }
